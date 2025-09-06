@@ -1,0 +1,21 @@
+Supplier_ID,Supplier_Name,Category,Region
+1,Supplier_1,HR Services,Europe
+2,Supplier_2,Facilities,Europe
+3,Supplier_3,Logistics,North America
+4,Supplier_4,Facilities,Middle East
+5,Supplier_5,Facilities,North America
+6,Supplier_6,Marketing,North America
+7,Supplier_7,Logistics,Asia-Pacific
+8,Supplier_8,Logistics,Asia-Pacific
+9,Supplier_9,Logistics,Asia-Pacific
+10,Supplier_10,Facilities,Europe
+11,Supplier_11,HR Services,Middle East
+12,Supplier_12,Logistics,Middle East
+13,Supplier_13,Facilities,Middle East
+14,Supplier_14,Marketing,Middle East
+15,Supplier_15,HR Services,Asia-Pacific
+16,Supplier_16,Marketing,Europe
+17,Supplier_17,HR Services,Europe
+18,Supplier_18,Facilities,Asia-Pacific
+19,Supplier_19,IT,Europe
+20,Supplier_20,HR Services,Asia-Pacific
